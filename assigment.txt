@@ -108,3 +108,9 @@ a)	Ask Yourself How the Software Could Be Misused: Each time you embark on a new
 b)	Be Honest About Your Intent: Be transparent about your intentions and the potential impacts of your work.
 c)	Avoid Biases: Strive to recognize and mitigate biases in your algorithms and data.
 d)	Take Accountability for the Software: Be accountable for any unfavorable outcomes and be open and honest about growth procedures.
+
+References;
+Pressman, R. S. (2010). Software Engineering: A Practitioner’s Approach. McGraw-Hill Education.
+Sommerville, I. (2015). Software Engineering. Pearson.
+Geek for geeks.
+W3Schools.
